@@ -10,7 +10,7 @@
 2. Initialize manifests:
   ```
   repo init -u https://android.googlesource.com/platform/manifest -b android-6.0.1_r74 --depth=1
-  git clone https://github.com/ayufan-pine64/local_manifests -b marshmallow .repo/local_manifests
+  git clone https://github.com/unknown-pine64/local_manifests -b marshmallow .repo/local_manifests
   ```
 
 3. Checkout sources:
